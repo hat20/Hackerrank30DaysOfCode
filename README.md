@@ -6,4 +6,5 @@ Language Used - Python v3.0
 Programs:
 1) <b>Day 1</b> - Data Types
 2) <b>Day 2</b> - Operators
+3) <b>Day 3</b> - Conditionals
 
