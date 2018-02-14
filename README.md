@@ -7,4 +7,5 @@ Programs:
 1) <b>Day 1</b> - Data Types
 2) <b>Day 2</b> - Operators
 3) <b>Day 3</b> - Conditionals
+4) <b>Day 4</b> - Class vs. Instance
 
