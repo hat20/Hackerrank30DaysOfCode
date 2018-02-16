@@ -9,4 +9,5 @@ Programs:
 3) <b>Day 3</b> - Conditionals
 4) <b>Day 4</b> - Class vs. Instance
 5) <b>Day 5</b> - Loops
+6) <b>Day 6</b> - Review Exercise
 
