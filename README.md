@@ -11,4 +11,4 @@ Programs:
 5) <b>Day 5</b> - Loops
 6) <b>Day 6</b> - Review Exercise
 7) <b>Day 7</b> - Arrays
-
+8) <b>Day 8</b> - Dictionary
