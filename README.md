@@ -15,3 +15,4 @@ Programs:
 9) <b>Day 9</b> - Recursion
 10) <b>Day 10</b> - Binary Numbers
 11) <b>Day 11</b> - 2D Array
+12) <b>Day 12</b> - Inheritance
