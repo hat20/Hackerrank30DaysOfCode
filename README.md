@@ -25,3 +25,4 @@ Programs:
 19) <b>Day 19</b> - Interfaces (Coded in JAVA as Python not available)
 20) <b>Day 20</b> - Sorting
 21) <b>Day 21</b> - Generics
+22) <b>Day 22</b> - Binary Search Trees
