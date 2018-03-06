@@ -27,3 +27,4 @@ Programs:
 21) <b>Day 21</b> - Generics
 22) <b>Day 22</b> - Binary Search Trees
 23) <b>Day 23</b> - Level Order Traversal in Binary Search Trees
+24) <b>Day 24</b> - More Linked Lists
