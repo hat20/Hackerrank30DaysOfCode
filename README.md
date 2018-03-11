@@ -4,6 +4,7 @@ This repository keeps track of all the programs I did to complete Hackerrank 30 
 Language Used - Python v3.0
 
 Programs:
+
 0) <b>Day 0</b> - Hello World!
 1) <b>Day 1</b> - Data Types
 2) <b>Day 2</b> - Operators
@@ -33,3 +34,4 @@ Programs:
 26) <b>Day 26</b> - Nested Logic
 27) <b>Day 27</b> - Testing
 28) <b>Day 28</b> - RegEx, Patterns and Intro to Databases
+29) <b>Day 29</b> - Bitwise AND
