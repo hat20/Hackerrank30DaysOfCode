@@ -35,3 +35,7 @@ Programs:
 27) <b>Day 27</b> - Testing
 28) <b>Day 28</b> - RegEx, Patterns and Intro to Databases
 29) <b>Day 29</b> - Bitwise AND
+
+Challenge Completed.
+
+Credits - Hackerrank and it's incredible community. 
